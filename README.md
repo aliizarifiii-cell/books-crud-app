@@ -1,5 +1,5 @@
 # Books CRUD App
-# Ditt Förnamn Ditt Efternamn
+# Ali Zarifi
 
 Detta är en fullstack CRUD-applikation byggd med FastAPI i backend och React i frontend.
 Temat är en enkel boksamling där användaren kan skapa, läsa, uppdatera och ta bort böcker.
